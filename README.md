@@ -7,7 +7,9 @@ Instant print and scan system with data storage on excel for inventory managemen
 4. The setting of the scanner is CR Suffix, such that after scanning the barcode, the cell under the code will be selected. Like hitting Enter after writing the code
 
 Barcode Scanner used: 2D Imaging Scanner RETSOL D-2060
+
 Barcode label Printer used: Xprinter XP-350B
+
 Labels used: 5 x 2.5 cm
 
 STEP 1:Download and install barcode font 
