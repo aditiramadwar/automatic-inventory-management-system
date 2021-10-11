@@ -1,4 +1,4 @@
-# barcode-print-scan-system-vba
+# Automatic-Inventory-Management-System
 Instant print and scan system with data storage on excel for inventory management
 
 1. Used for instant printing of barcode onto labels. Current alignment settings are according to 5 x 2.5cm labels
